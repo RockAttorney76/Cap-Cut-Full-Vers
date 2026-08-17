@@ -9,9 +9,6 @@
 ## 📥 Download
 
 [![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/SilentJMA/CapCut-Pro-Full-Unlock/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/SilentJMA/CapCut-Pro-Full-Unlock/total?style=for-the-badge&color=blue)](https://github.com/SilentJMA/CapCut-Pro-Full-Unlock/releases)
-[![Stars](https://img.shields.io/github/stars/SilentJMA/CapCut-Pro-Full-Unlock?style=for-the-badge&color=yellow)](https://github.com/SilentJMA/CapCut-Pro-Full-Unlock/stargazers)
-[![Forks](https://img.shields.io/github/forks/SilentJMA/CapCut-Pro-Full-Unlock?style=for-the-badge&color=orange)](https://github.com/SilentJMA/CapCut-Pro-Full-Unlock/forks)
 
 </div>
 
