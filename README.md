@@ -1,4 +1,5 @@
 # 🎬 CapCut Pro Full Unlock — Premium Video Editor 2026
+<img width="700" height="162" alt="image" src="https://github.com/user-attachments/assets/3f7e2f6c-9640-4f45-b517-ac6ff20099cc" />
 
 **All Pro Features · No Watermark · 4K Export · AI Tools · Unlimited Creative Power**
 
